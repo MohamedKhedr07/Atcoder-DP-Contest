@@ -18,7 +18,7 @@ My Solutions for the Atcoder Edu DP Contest
 
 :heavy_check_mark: [H- Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)
 
-: [ ] [I- Coins](https://atcoder.jp/contests/dp/tasks/dp_i)
+- [ ] [I- Coins](https://atcoder.jp/contests/dp/tasks/dp_i)
 
 - [ ] [J- Sushi](https://atcoder.jp/contests/dp/tasks/dp_j)
 

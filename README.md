@@ -1,23 +1,23 @@
 # Atcoder-DP-Contest
 My Solutions for the Atcoder Edu DP Contest
 # Problem list:
-- [x] [A- Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)
+:heavy_check_mark: [A- Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)
 
-- [x] [B- Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)
+:heavy_check_mark: [B- Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)
 
-- [x] [C- Vacations](https://atcoder.jp/contests/dp/tasks/dp_c)
+:heavy_check_mark: [C- Vacations](https://atcoder.jp/contests/dp/tasks/dp_c)
 
-- [x] [D- Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
+:heavy_check_mark: [D- Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
 
-- [x] [E- Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)
+:heavy_check_mark: [E- Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)
 
-- [x] [F- LCS](https://atcoder.jp/contests/dp/tasks/dp_f)
+:heavy_check_mark: [F- LCS](https://atcoder.jp/contests/dp/tasks/dp_f)
 
-- [x] [G- Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)
+:heavy_check_mark: [G- Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)
 
-- [x] [H- Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)
+:heavy_check_mark: [H- Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)
 
-- [ ] [I- Coins](https://atcoder.jp/contests/dp/tasks/dp_i)
+:heavy_check_mark: [I- Coins](https://atcoder.jp/contests/dp/tasks/dp_i)
 
 - [ ] [J- Sushi](https://atcoder.jp/contests/dp/tasks/dp_j)
 
@@ -29,7 +29,7 @@ My Solutions for the Atcoder Edu DP Contest
 
 - [ ] [N- Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)
 
-- [x] [O- Matching](https://atcoder.jp/contests/dp/tasks/dp_o)
+:heavy_check_mark: [O- Matching](https://atcoder.jp/contests/dp/tasks/dp_o)
 
 - [ ] [P- Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p)
 
